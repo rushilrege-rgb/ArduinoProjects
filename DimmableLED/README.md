@@ -40,3 +40,8 @@ Set the Serial Monitor to:
 
 ```text
 9600 baud
+
+
+## Demo Video
+
+[Watch the demo](demo/Adobe_Express_-_IMG_4873.mp4)
