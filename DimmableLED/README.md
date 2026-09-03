@@ -38,7 +38,6 @@ Set the Serial Monitor to:
 
 ---
 
-Now you can fill in the link yourself whenever you're ready!
 
 
 
