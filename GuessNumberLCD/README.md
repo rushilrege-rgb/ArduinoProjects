@@ -53,7 +53,6 @@ The `lcdPrintPadded()` helper pads every string to 16 characters before printing
 
 ## Suggestions for Improvement
 
-- **Fix the unused `playAgain` variable.** It's declared and checked in the OK-press logic (`else if (!playAgain)`) but never actually set to `true` anywhere, and it's reset to `false` inside its own branch. Right now the third-press reset works because `enterGame` and `guessConfirmed` being `true` is enough to reach that branch — `playAgain` isn't doing anything. You can either remove it entirely, or use it properly as a fourth state for extra clarity.
 - **Debounce more robustly.** The current `delay(10)` provides basic debouncing, but a dedicated debounce library (e.g. Bounce2) or a millis()-based debounce timer would make button reads more reliable, especially on cheaper/noisier switches.
 - **Add attempt counting.** Track how many guesses the player takes before winning and display it on the result screen — adds a scoring element.
 - **Add a "too close" hint.** For a slightly easier or more informative game, show "Close!" when the guess is within 1-2 of the answer, alongside "too high/low."
