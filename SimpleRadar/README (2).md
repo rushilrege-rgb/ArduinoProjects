@@ -2,7 +2,7 @@
 
 An Arduino project that combines a joystick-controlled servo with an HC-SR04 ultrasonic distance sensor, displaying live distance readings on a 16x2 LCD.
 
-[View project demo / write-up](PASTE_LINK_HERE)
+[View project demo](https://drive.google.com/file/d/1Mf_taLbBkdDg1_vxRLhGcJaJ8XILAfj_/view?usp=sharing)
 
 ![Project photo](project_photo.jpeg)
 
