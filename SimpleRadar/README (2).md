@@ -1,4 +1,4 @@
-# Joystick-Controlled Servo with Ultrasonic Distance Display
+# Simple Radar
 
 An Arduino project that combines a joystick-controlled servo with an HC-SR04 ultrasonic distance sensor, displaying live distance readings on a 16x2 LCD.
 
