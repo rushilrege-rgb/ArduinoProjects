@@ -4,7 +4,7 @@ A simple Arduino project that reads temperature and humidity from a DHT11 sensor
 
 ## 🎥 Video Demo
 
-[https://drive.google.com/file/d/1TJk3i64FOI2UCIM8JdQglZltZ1YUPAkp/view?usp=sharing]
+(Video)[https://drive.google.com/file/d/1TJk3i64FOI2UCIM8JdQglZltZ1YUPAkp/view?usp=sharing]
 
 ## Features
 
