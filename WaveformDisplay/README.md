@@ -4,7 +4,7 @@ A simple Arduino project that reads audio amplitude from a KY-038 microphone mod
 
 ## Demo
 
-[Watch the demo video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch the demo video](https://drive.google.com/file/d/1NbPSjM6Jy2CRylBPbMfHpQcqC4h1lhQC/view?usp=sharing)
 
 ## Hardware
 
